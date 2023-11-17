@@ -1,7 +1,7 @@
 {
   "name": "@dy-org/ui-layer",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "Nuxt layer with Ui components",
   "main": "./nuxt.config.ts",
   "scripts": {

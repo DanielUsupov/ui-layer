@@ -1,7 +1,7 @@
 {
   "name": "@dy-org/ui-layer",
   "type": "module",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Nuxt layer with Ui components",
   "main": "./nuxt.config.ts",
   "scripts": {
@@ -20,9 +20,11 @@
   "homepage": "https://github.com/DanielUsupov/ui-layer#readme",
   "devDependencies": {
     "@nuxt/eslint-config": "^0.1.1",
-    "@nuxtjs/tailwindcss": "^6.9.5",
     "eslint": "^8.28.0",
     "nuxt": "^3.6.2",
     "typescript": "^4.9.3"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^6.9.5"
   }
 }
